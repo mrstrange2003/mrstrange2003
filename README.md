@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![An image of @mrstrange2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrstrange2003)](https://holopin.io/@mrstrange2003)
 <!--
 **mrstrange2003/mrstrange2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
