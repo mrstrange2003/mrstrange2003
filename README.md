@@ -1,5 +1,12 @@
-## Hi there 👋
-[![An image of @mrstrange2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrstrange2003)](https://holopin.io/@mrstrange2003)
+
+<!-- Centered Holopin board (auto-updates when you edit your board on holopin.io) -->
+<p align="center">
+  <h2 align="center">Hacktoberfest 2025</h2>
+  <a href="https://holopin.io/@mrstrange2003" target="_blank" rel="noopener">
+    <img src="https://holopin.io/api/user/board?user=mrstrange2003" alt="@rstrange2003's Holopin board" />
+  </a>
+</p>
+
 <!--
 **mrstrange2003/mrstrange2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
