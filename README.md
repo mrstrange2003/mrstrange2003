@@ -1,6 +1,7 @@
 
 <!-- Centered Holopin board (auto-updates when you edit your board on holopin.io) -->
 <h2 align="center">Hacktoberfest 2025</h2>
+
 [![An image of @mrstrange2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrstrange2003)](https://holopin.io/@mrstrange2003)
 
 ### Badges
