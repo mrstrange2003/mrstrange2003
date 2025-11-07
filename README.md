@@ -19,8 +19,7 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrstrange2003&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrstrange2003&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://streak-stats.demolab.com?user=mrstrange2003&theme=gotham&hide_border=true)
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=mrstrange2003&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="mrstrange2003's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstrange2003&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="mrstrange2003's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=mrstrange2003&theme=gotham&hide_border=true" alt="mrstrange2003's GitHub Stats" />
